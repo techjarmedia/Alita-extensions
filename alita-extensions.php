@@ -1,10 +1,9 @@
 <?php
 /**
  * Plugin Name:    	Alita Extensions
- * Plugin URI:     	https://demo2.chethemes.com/Alita/
  * Description:    	This selection of extensions compliment our lean and mean theme for WooCommerce, Alita. Please note: they don’t work with any WordPress theme, just Alita.
- * Author:         	MadrasThemes
- * Author URL:     	https://madrasthemes.com/
+ * Author:         	Techjarmedia
+ * Author URL:     	https://Techjarmedia.com/
  * Version:        	2.4.2
  * Text Domain: 	Alita-extensions
  * Domain Path: 	/languages

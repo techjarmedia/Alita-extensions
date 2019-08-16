@@ -1,10 +1,9 @@
-# Copyright (C) 2019 MadrasThemes
+# Copyright (C) 2019 Techjarmedia
 # This file is distributed under the same license as the Alita Extensions package.
 msgid ""
 msgstr ""
 "Project-Id-Version: Alita Extensions 2.4.1\n"
 "Report-Msgid-Bugs-To: "
-"https://themeforest.net/item/Alita-Alitanics-store-woocommerce-theme/157"
 "20624/support/\n"
 "POT-Creation-Date: 2019-07-24 12:59:46+00:00\n"
 "MIME-Version: 1.0\n"
@@ -4568,7 +4567,7 @@ msgid ""
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "MadrasThemes"
+msgid "Techjarmedia"
 msgstr ""
 
 #: modules/post-types/static-block.php:48
